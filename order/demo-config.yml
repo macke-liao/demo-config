@@ -14,6 +14,6 @@ eureka:
    fetch-registry: true
  instance:
   hostname: 127.0.0.1
-   ip-addressz: localhost
+   ip-address: localhost
    prefer-ip-address: true
    instance-id: ${spring.application.name}
