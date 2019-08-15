@@ -17,4 +17,3 @@ eureka:
    ip-addressz: localhost
    prefer-ip-address: true
    instance-id: ${spring.application.name}
-ribbon:
